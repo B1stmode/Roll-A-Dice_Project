@@ -36,34 +36,32 @@ h1 {
 }
 
 button {
-    background-color: #58b4d1;
+    background-color: #588157;
     color: white;
     border: none;
     border-radius: 1rem;
     cursor: pointer;
     transition: background-color .3s ease;
     display: block;
-    margin: 10px auto; /* Position buttons centrally with a margin */
+    margin: 10px auto; 
 }
 
-/* Separate styles for the Roll Dice button */
 #roll-button {
     font-size: 2rem;
     padding: 1rem 2.5rem;
 }
 
 #roll-button:hover {
-    background-color: #219ebc;
+    background-color: #3a5a40;
 }
 
-/* Separate styles for the Clear History button */
 #clear-button {
-    font-size: 1.5rem; /* Slightly smaller font size */
-    padding: 1rem 2rem; /* Smaller padding */
+    font-size: 1.5rem; 
+    padding: 1rem 2rem; 
 }
 
 #clear-button:hover {
-    background-color: #219ebc;
+    background-color: #3a5a40;
 }
 
 .history-container {
@@ -81,7 +79,7 @@ button {
 }
 
 h2 {
-    background-color: #73bfdc;
+    background-color: #a3b18a;
     color: white;
     border-radius: .5rem;
     font-size: 1.75rem;
@@ -99,7 +97,7 @@ li {
     font-size: 1.5rem;
     padding: .5rem;
     margin: .5rem 0;
-    background-color: #DBE9EE;
+    background-color: #dad7cd;
     border-radius: .5rem;
     box-shadow: 0 2px 2px rgba(0, 0, 0, .3);
     display: flex;
