@@ -1,5 +1,5 @@
 const buttonEl = document.getElementById("roll-button");
-const clearButtonEl = document.getElementById("clear-button"); // Grab the clear button element
+const clearButtonEl = document.getElementById("clear-button");
 const dice1El = document.getElementById("dice1");
 const dice2El = document.getElementById("dice2");
 const rollHistory1El = document.getElementById("roll-history1");
